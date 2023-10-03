@@ -3,7 +3,7 @@
   and evaluations tech platforms using artificial intelligence, machine learning and computer vision.
 - 🌱 We're currently available in Saudi Arabia 🇸🇦
 - 💞️ We're looking to expand and grow to the world
-- 📫 How to reach us care@cartrust.sa
+- 📫 How to reach us info@cartrust.sa
 
 
 
