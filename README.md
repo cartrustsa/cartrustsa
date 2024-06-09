@@ -7,4 +7,4 @@
 
 
 
-<img width="150" title="aleef logo" src="https://cartrust.sa/front/imgs/ctsite-logo.svg" data-canonical-src="https://cartrust.sa/front/imgs/ctsite-logo.svg" style="max-width: 100%;">
+<img width="150" title="cartrust logo" src="https://cartrust.sa/front/imgs/ctsite-logo.svg" data-canonical-src="https://cartrust.sa/front/imgs/ctsite-logo.svg" style="max-width: 100%;">
